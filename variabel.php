@@ -1,6 +1,6 @@
 <?php
     // latihan membuat dan menggunakan variabel
-    $nama = "Nama : <b>Ahmad Istakim</b>";
+    $nama = "Nama : Ahmad Istakim";
     $umur = 19;
-    echo $nama ."<br> Umur : ". "<b>".$umur."</b>";
+    echo $nama ."<br> Umur : ".$umur;
 ?>
